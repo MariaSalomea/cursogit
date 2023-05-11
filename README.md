@@ -1,3 +1,5 @@
 # Curso de _Git_ & _GitHub_
 
-Hola soy Abraham Cabrera. Bienvenidos.
+Hola. Bienvenidos.
+
+Agregando más contenido al _README.md_
